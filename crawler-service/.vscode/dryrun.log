@@ -1,0 +1,4 @@
+make: Entering directory 'c:/Users/ADMIN/Projects/lotto-crawler/crawler-service'
+nodemon --exec go run main.go
+make: Leaving directory 'c:/Users/ADMIN/Projects/lotto-crawler/crawler-service'
+ 
